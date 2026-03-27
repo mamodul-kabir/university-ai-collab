@@ -1,0 +1,428 @@
+[{
+  "university": "University of Michigan",
+  "source_link" : "https://news.umich.edu/u-m-debuts-generative-ai-services-for-campus/", 
+  "ai_company": "Microsoft",
+  "launch_date": "August 2023",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff"
+  ],
+  "resources_provided": [
+    {
+      "name": "U-M GPT",
+      "description": "Access to popular large language models with screen-reader accessibility."
+    },
+    {
+      "name": "U-M Maizey",
+      "description": "Tool to query custom user datasets connected via platforms like Google and Canvas."
+    },
+    {
+      "name": "U-M GPT Toolkit",
+      "description": "Platform to construct, train, and host AI models securely."
+    }
+  ]
+}
+,
+{
+  "university": "University of Michigan",
+  "source_link" : "https://its.umich.edu/computing/ai/notebook-lm-gemini", 
+  "ai_company": "Google",
+  "launch_date": "Not specified",
+  "target_audience": [
+    "Faculty",
+    "Staff",
+    "Students"
+  ],
+  "resources_provided": [
+    {
+      "name": "Google Gemini",
+      "description": "Generative AI chat and image generation app available for creating content, brainstorming ideas, and assisting with research."
+    },
+    {
+      "name": "Google NotebookLM",
+      "description": "AI-powered research and note-taking assistant that allows users to upload documents and interact with them through summaries, flashcards, and audio overviews."
+    }
+  ]
+}
+,
+{
+  "university": "University of Michigan",
+  "source_link": "https://its.umich.edu/computing/ai/go-blue-ai/go-blue-in-depth",
+  "ai_company": "Not specified",
+  "launch_date": "Not specified",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff"
+  ],
+  "resources_provided": [
+    {
+      "name": "Go Blue",
+      "description": "A mobile AI assistant for iOS and Android that helps navigate campus life. Features include voice-based input, image analysis, and access to class information, dining menus, campus events, and student organizations."
+    }
+  ]
+}
+, 
+{
+  "university": "University of Michigan",
+  "source_link": "https://record.umich.edu/articles/u-m-openai-launch-partnership-to-expand-ai-research/",
+  "ai_company": "OpenAI",
+  "launch_date": "March 2025",
+  "target_audience": [
+    "Faculty",
+    "Students",
+    "Researchers"
+  ],
+  "tools": [
+    {
+      "name": "OpenAI API Credits",
+      "description": "Prepaid access to OpenAI's advanced AI models, enabling users to build and explore AI applications across various fields."
+    },
+    {
+      "name": "High-Performance Computing Resources",
+      "description": "Funding and resources provided to purchase computing power for conducting complex artificial intelligence research."
+    },
+    {
+      "name": "Research Grants",
+      "description": "Financial contributions awarded to faculty to advance AI-related scholarship and joint research projects."
+    }
+  ]
+}
+, 
+{
+  "university": "University of Michigan",
+  "source_link": "https://news.umich.edu/u-m-partners-with-google-to-provide-all-students-free-access-to-google-career-certificates-and-ai-training/",
+  "ai_company": "Google",
+  "launch_date": "May 2025",
+  "target_audience": [
+    "Students"
+  ],
+  "resources_provided": [
+    {
+      "name": "Google Career Certificates",
+      "description": "Training programs providing job-ready skills in fields such as cybersecurity, data analytics, digital marketing, UX design, and project management."
+    },
+    {
+      "name": "Google AI and Prompting Essentials Courses",
+      "description": "Educational courses designed to teach foundational AI skills, best practices, and responsible use of AI tools."
+    }
+  ]
+}
+, 
+{
+  "university": "New York University",
+  "source_link": "https://www.nyu.edu/life/information-technology/artificial-intelligence-at-nyu/generative-ai-services/gemini.html",
+  "ai_company": "Google",
+  "launch_date": "Not specified",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff"
+  ],
+  "resources_provided": [
+    {
+      "name": "Google Gemini",
+      "description": "A generative AI chatbot available to the entire university community for creating content, streamlining tasks, and assisting with communications without using data for model training."
+    },
+    {
+      "name": "Google Gemini Pro",
+      "description": "A paid-tier version of the assistant available by request to faculty and staff, offering additional functionality and capacity."
+    },
+    {
+      "name": "Google Workspace Studio",
+      "description": "An integration tool enabling users to automate tasks between Google apps, connecting directly with Gemini for research, analysis, and content generation."
+    }
+  ]
+}
+, 
+{
+  "university": "New York University",
+  "source_link": "https://www.nyu.edu/life/information-technology/artificial-intelligence-at-nyu/generative-ai-services/private-ai.html",
+  "ai_company": "Not specified",
+  "launch_date": "Not specified",
+  "target_audience": [
+    "Researchers"
+  ],
+  "resources_provided": [
+    {
+      "name": "NYU Private GenAI Service (Pilot)",
+      "description": "A private generative AI model governed by the university data privacy policy, available via approval for research projects that cannot be achieved using standard tools like Gemini."
+    }
+  ]
+}
+, 
+{
+  "university": "New York University",
+  "source_link": "https://services.rt.nyu.edu/docs/genai/getting_started/intro/",
+  "ai_company": "OpenAI, Anthropic",
+  "launch_date": "May 2025",
+  "target_audience": [
+    "Researchers"
+  ],
+  "resources_provided": [
+    {
+      "name": "Pythia LLM Gateway",
+      "description": "A generative AI platform for research workflows providing access to externally hosted LLMs, including OpenAI's o4-mini and Anthropic's Claude models."
+    },
+    {
+      "name": "HPC Resources for Fine-Tuning",
+      "description": "High-performance computing resources dedicated to fine-tuning large language models for research purposes."
+    }
+  ]
+}
+, 
+{
+  "university": "New York University (Stern School of Business)",
+  "source_link": "https://hbr.org/2025/09/what-happened-when-researchers-co-founded-a-startup-with-ai",
+  "ai_company": "Microsoft",
+  "launch_date": "September 2025",
+  "target_audience": [
+    "Students"
+  ],
+  "resources_provided": [
+    {
+      "name": "Microsoft 365 Copilot",
+      "description": "AI agent capabilities provided to 30 MBA students as part of a semester-long research collaboration to study how AI functions as a startup co-founder."
+    }
+  ]
+}
+, 
+{
+  "university": "Arizona State University",
+  "source_link": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2024/05/21/unpacking-asus-openai-partnership-and",
+  "ai_company": "OpenAI",
+  "launch_date": "Early 2024",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff"
+  ],
+  "resources_provided": [
+    {
+      "name": "ChatGPT Enterprise",
+      "description": "Enterprise-grade access to ChatGPT deployed across the campus to support personalized learning, tutoring, writing support, immersive simulations, and academic advising."
+    }
+  ]
+}
+, 
+{
+  "university": "Arizona State University",
+  "source_link": "https://tech.asu.edu/features/asu-and-openai-expand-collaboration-scaling-ai",
+  "ai_company": "OpenAI",
+  "launch_date": "October 2025",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff",
+    "Researchers"
+  ],
+  "resources_provided": [
+    {
+      "name": "ChatGPT Edu (with GPT-5)",
+      "description": "Expanded campus-wide access to ChatGPT Edu powered by GPT-5 to advance student success, accelerate research, and transform collaboration. Includes enterprise data privacy where inputs are not used to train models."
+    }
+  ]
+}
+, 
+{
+  "university": "Arizona State University",
+  "source_link": "https://ai.asu.edu/create-ai-platform-product-release-notes",
+  "ai_company": "Vendor-independent (Integrates models from Google, OpenAI, Anthropic, Meta, etc.)",
+  "launch_date": "June 2025 (Rebranded as CreateAI Toolkit)",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff",
+    "Developers"
+  ],
+  "resources_provided": [
+    {
+      "name": "CreateAI Builder",
+      "description": "A tool tailored for faculty and staff to build, manage, and deploy custom AI projects and agents in a secure environment, with integrations like Canvas."
+    },
+    {
+      "name": "CreateAI Chat",
+      "description": "A general AI chat interface available to the entire ASU community, allowing users to interact with various large language models and upload media."
+    },
+    {
+      "name": "CreateAI Compare",
+      "description": "A tool available to everyone that allows users to compare responses across different AI models simultaneously."
+    },
+    {
+      "name": "CreateAI Platform",
+      "description": "A secure, model and cloud-independent environment serving as the tactical layer for developers to innovate with best-in-class technology."
+    }
+  ]
+}
+, 
+{
+  "university": "Arizona State University",
+  "source_link": "https://ai.asu.edu/technical-foundation/articles-and-documentation/accessing-generative-ai-apis-asu",
+  "ai_company": "OpenAI, Anthropic, Mistral, Cohere, AWS, Microsoft Azure",
+  "launch_date": "Not specified",
+  "target_audience": [
+    "Researchers",
+    "Faculty",
+    "Staff",
+    "Students"
+  ],
+  "resources_provided": [
+    {
+      "name": "OpenAI API (Enterprise Research License)",
+      "description": "Direct API access to OpenAI models provided under ASU's enterprise license specifically for academic research projects."
+    },
+    {
+      "name": "CreateAI APIs",
+      "description": "An enterprise-grade API gateway providing access to over 50 foundational models (including OpenAI, Anthropic, Mistral, and Cohere) for university-supported development teams."
+    },
+    {
+      "name": "AWS Bedrock and Azure OpenAI Access",
+      "description": "Supported procurement pathways allowing individual developers and units to purchase direct API access through platforms like AWS Bedrock and Microsoft Azure for exploratory prototyping."
+    }
+  ]
+}
+, 
+{
+  "university": "The University of Texas at Austin",
+  "source_link": "https://tech.utexas.edu/news/ut-spark-officially-here",
+  "ai_company": "Microsoft Azure, OpenAI",
+  "launch_date": "August 2025",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff"
+  ],
+  "resources_provided": [
+    {
+      "name": "UT Spark",
+      "description": "An all-in-one generative AI platform built on secure Azure infrastructure. It offers access to advanced OpenAI models like GPT-4.1 and GPT-4o for brainstorming, summarizing research, and chatting with official UT bots, while keeping data private and protected."
+    }
+  ]
+}
+, 
+{
+  "university": "The University of Texas at Austin",
+  "source_link": "https://tech.utexas.edu/services-tools/ai/copilot-m365",
+  "ai_company": "Microsoft",
+  "launch_date": "Not specified",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff"
+  ],
+  "resources_provided": [
+    {
+      "name": "Microsoft 365 Copilot",
+      "description": "An AI-powered assistant embedded within apps like Word, Excel, Teams, and Outlook designed to enhance productivity, simplify tasks, streamline workflows, and provide actionable insights."
+    }
+  ]
+}
+, 
+{
+  "university": "The University of Texas at Austin",
+  "source_link": "https://provost.utexas.edu/the-office/faculty-affairs/office-of-academic-technology/ut-sage/",
+  "ai_company": "Anthropic, Amazon Web Services (AWS)",
+  "launch_date": "Fall 2025",
+  "target_audience": [
+    "Faculty",
+    "Staff",
+    "Students"
+  ],
+  "resources_provided": [
+    {
+      "name": "UT Sage",
+      "description": "A virtual instructional designer and AI Tutor platform that allows instructors to create Socratic tutor chatbots to enhance student engagement and customize learning experiences based on uploaded course materials like syllabi."
+    }
+  ]
+}
+, 
+{
+  "university": "The University of Texas at Austin",
+  "source_link": "https://news.utexas.edu/2022/07/21/new-partnership-will-scale-up-investment-in-ethical-ai-research-and-innovation/",
+  "ai_company": "MITRE Corporation",
+  "launch_date": "July 2022",
+  "target_audience": [
+    "Faculty",
+    "Researchers",
+    "Students"
+  ],
+  "resources_provided": [
+    {
+      "name": "MITRE-Good Systems Partnership",
+      "description": "A $1 million investment from the MITRE Corporation to scale up research within the Good Systems grand challenge. The partnership focuses on building capacity in six core areas: smart hand tools for work, curbing disinformation, smarter cities, ethical public camera AI, advancing racial equity, and human-robot interaction."
+    }
+  ]
+}
+, 
+{
+  "university": "The University of Texas at Austin",
+  "source_link": "https://guides.lib.utexas.edu/AI/tools",
+  "ai_company": "Google",
+  "launch_date": "August 2025",
+  "target_audience": [
+    "Students",
+    "Faculty",
+    "Staff"
+  ],
+  "resources_provided": [
+    {
+      "name": "Google Gemini",
+      "description": "A generative AI chatbot formerly known as Bard, provided with enterprise-grade data protections. It is used for content generation, summarization, and interactive assistance within the secure university environment."
+    },
+    {
+      "name": "Google NotebookLM",
+      "description": "An AI-powered research and note-taking tool designed to help users synthesize information from multiple uploaded documents through summaries and interactive Q&A."
+    }
+  ]
+}
+, 
+{
+  "university": "Stanford University",
+  "source_link": "https://uit.stanford.edu/news/developers-can-now-try-out-ai-api-gateway",
+  "ai_company": "Various (Managed via Stanford AI Playground)",
+  "launch_date": "April 2025",
+  "target_audience": [
+    "Developers",
+    "Faculty",
+    "Students",
+    "Staff"
+  ],
+  "resources_provided": [
+    {
+      "name": "AI API Gateway",
+      "description": "A service providing direct API access to the large language models available in the Stanford AI Playground, allowing you to build custom chatbots, data analytics tools, and automated content solutions."
+    },
+    {
+      "name": "Stanford AI Playground",
+      "description": "A Stanford-managed platform built on open-source technology that provides access to various large language models for secure learning and experimentation."
+    }
+  ]
+}
+, 
+{
+  "university": "University of Tartu, Stanford University (SCALE Initiative)",
+  "source_link": "https://openai.com/index/understanding-ai-and-learning-outcomes/",
+  "ai_company": "OpenAI",
+  "launch_date": "March 2026",
+  "target_audience": [
+    "Students",
+    "Researchers",
+    "Educators"
+  ],
+  "resources_provided": [
+    {
+      "name": "Learning Outcomes Measurement Suite",
+      "description": "A framework developed to support the longitudinal measurement of AI's influence on learner progress, tracking cognitive outcomes, model behavior, and learner response across various contexts."
+    },
+    {
+      "name": "Learning Lab",
+      "description": "A research ecosystem involving partners like Arizona State University, MIT Media Lab, and UCL Knowledge Lab to advance the study of AI in learning environments."
+    },
+    {
+      "name": "ChatGPT Study Mode",
+      "description": "A pedagogically aligned interaction style featuring custom system instructions designed to support deeper understanding and skill-building rather than just providing answers."
+    }
+  ]
+}
+]
